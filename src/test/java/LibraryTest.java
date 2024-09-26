@@ -1,3 +1,5 @@
+import org.example.Book;
+import org.example.Library;
 import org.junit.Before;
 import org.junit.Test;
 
